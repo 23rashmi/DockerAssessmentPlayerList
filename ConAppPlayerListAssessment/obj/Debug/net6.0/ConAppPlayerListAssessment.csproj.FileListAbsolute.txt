@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\bin\Debug\net6.0\ConAppPlayerListAssessment.exe
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\bin\Debug\net6.0\ConAppPlayerListAssessment.deps.json
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\bin\Debug\net6.0\ConAppPlayerListAssessment.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\bin\Debug\net6.0\ConAppPlayerListAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\bin\Debug\net6.0\ConAppPlayerListAssessment.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\refint\ConAppPlayerListAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ref\ConAppPlayerListAssessment.dll

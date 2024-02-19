@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFoAiScFvhpS1rwEhy+Tmi1JwEMk4hIJTijhj+4PDtC4XrLPqi1ciaPQ9+39R1sevsQnGBpg0TeSR+NSovYOlg==",
+  "success": true,
+  "projectFilePath": "D:\\MPHASIS PROJECTS\\Phase-4\\ConAppPlayerListAssessment\\ConAppPlayerListAssessment\\ConAppPlayerListAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priye\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConAppPlayerListAssessment": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

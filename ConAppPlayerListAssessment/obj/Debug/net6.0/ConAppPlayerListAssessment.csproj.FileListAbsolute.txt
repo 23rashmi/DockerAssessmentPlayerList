@@ -12,3 +12,4 @@ D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessmen
 D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.pdb
 D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.genruntimeconfig.cache
 D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ref\ConAppPlayerListAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\ConAppPlayerListAssessment\ConAppPlayerListAssessment\obj\Debug\net6.0\ConAppPlayerListAssessment.sourcelink.json

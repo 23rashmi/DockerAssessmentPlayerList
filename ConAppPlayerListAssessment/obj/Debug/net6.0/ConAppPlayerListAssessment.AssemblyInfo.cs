@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppPlayerListAssessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb056eb352d3148fe036855647c5c25bd06b0f12")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppPlayerListAssessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppPlayerListAssessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

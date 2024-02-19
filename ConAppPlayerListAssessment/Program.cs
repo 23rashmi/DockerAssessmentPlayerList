@@ -28,12 +28,12 @@ class Program
         }
     }
 
-    static void PrintPlayer(Player player)
+    static void PrintPlayer(Player? player)
     {
         if(player != null )
         {
-            Console.WriteLine($"Id: {player.Id},Name:{player.Name},Age:{player.Age}");
-
+            Console.WriteLine($"Id: {player?.Id},Name:{player?.Name},Age:{player?.Age}");
+            Program.PrintPlayer(player);
         }
         else
         {
